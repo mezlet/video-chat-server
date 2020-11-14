@@ -21,7 +21,8 @@ const users = [
   {identity: "user3", role: "user"},
   {identity: "user4", role: "user"},
   {identity: "user5", role: "user"},
-  {identity: "admin", role: "host"}
+  {identity: "admin", role: "host"},
+  {identity: "user6", role: "host"},
 ]
 
 // Create Express webapp.
